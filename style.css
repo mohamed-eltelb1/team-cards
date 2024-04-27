@@ -1,0 +1,78 @@
+/* start nav  */
+.bg-body-tertiary img{
+    width: 40px;
+}
+/* end nav  */
+/* start carousel  */
+.bg-body-tertiary {
+    background-color: #544e4e !important;
+}
+
+.carousel-inner {
+    height: 400px;
+}
+
+.carousel-caption {
+    position: absolute;
+    color: violet;
+    text-align: right;
+    top: 20%;
+}
+/* end carousel  */
+/* start cards  */
+.h-100{
+    height: 100% !important;
+    border: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 30px;
+    padding-left: 100px;
+}
+
+.h-100 img{
+border-radius: 50%;
+width: 100px;
+}
+/* end cards  */
+hr{
+    width: 75%;
+    margin-left: 12%;
+}
+/* start team cards  */
+.row.team .container.row{
+    padding-left: 100px;
+    gap: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card.col-xs-12{
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card.col-xs-12 .card-body a,h5{
+    align-items: center;
+    margin-left: 50px;
+}
+.card.col-xs-12 img{
+    border-radius: 50%;
+}
+/* end team cards  */
+/* start the main card  */
+.card.mb-3{
+    margin: 20px auto;
+    border: none;
+}
+.row.g-0{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+/* end the main card  */
+
+
+
+
+/* end the main card  */
